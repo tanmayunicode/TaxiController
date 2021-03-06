@@ -1,1 +1,0 @@
-This is TestCase 2 and updated contents by Tester2
